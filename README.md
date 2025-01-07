@@ -1,4 +1,4 @@
-# prodigy_wd_03
+# Prodigy_WD_03
 Tic-Tac-Toe Web Application
 Features:
   - Player Turns: Alternates between "X" and "O".
